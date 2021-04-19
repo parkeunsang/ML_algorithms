@@ -43,6 +43,12 @@ non_ML/non_linear_reg : 비선형 회귀(by gradient descent)
 2. Split data frame by condition
 3. Repeat recursivly until can't reducing entropy or entropy=0
 
+## Naive Bayes
+
+> 나이브 베이즈 구현
+
+설명변수가 조건부독입이라는 가정하에 베이지안 방법으로 예측
+
 
 
 ## Non_ML
